@@ -2,7 +2,7 @@
 <br>
 <img src="https://github.com/eduardobetti/random-number/blob/master/assets/mockup-random-number.png?raw=true" alt="mockup-random-number">
 <br><br>
-<p>Versão 1.0 do Seletor Aleatório de Números, projeto desenvolvido no módulo JavaScript pt.2, da Trilha Full Stack PRO do Dev Club, sob mentoria do Professor Rodolfo Mori.</p>
+<p>Versão 1.0 do Random Number Selector, projeto desenvolvido no módulo JavaScript pt.2, da Trilha Full Stack PRO do Dev Club, sob mentoria do Professor Rodolfo Mori.</p>
 <p>Neste projeto aprendemos a utilizar as funções Math para criar um sistema simples de sorteio, levando em consideração um número mínimo e um número máximo.</p>
 <p>Utilizando como referência um modelo apresentado no FIGMA, desenvolvi a estética da página com poucas alterações, aplicando responsividade, como de praxe, e foquei minha atenção no desenvolvimento das funções.</p>
 <p>Primeiramente, a função a ser executada com o botão presente na tela e depois, indo além do proposto, mas deixando o sistema mais intuitivo, apliquei a função também ao utilizar a tecla Enter.</p>
