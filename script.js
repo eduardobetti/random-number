@@ -9,11 +9,11 @@ function generateNumber(a, b) {
     b = Math.floor(max.value)
     console.log(a, b)
 
-    if (a <= b){
+    if (a < b){
     const result = (Math.floor(Math.random() * (b - a + 1) + a))
 
     alert(result)
-}   else {alert('O número do campo "entre" deve ser menor que ou igual ao número do campo "e"')
+}   else {alert('O número do campo "entre" deve ser menor que o número do campo "e"')
 
 }}
 
@@ -26,11 +26,11 @@ document.addEventListener('keypress', function(e){
         let b = Math.floor(max.value)
         console.log(a, b)
     
-        if (a <= b){
+        if (a < b){
         const result = (Math.floor(Math.random() * (b - a + 1) + a))
     
         alert(result)
-        } else {alert('O número do campo "entre" deve ser menor que ou igual ao número do campo "e"')
+        } else {alert('O número do campo "entre" deve ser menor que o número do campo "e"')
 
         }}
  }, false);
